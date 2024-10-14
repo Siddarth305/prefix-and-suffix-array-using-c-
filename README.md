@@ -1,1 +1,1 @@
-# prefix-and-suffix-array-using-c-
+# prefix-and-suffix-array-using-cpp
